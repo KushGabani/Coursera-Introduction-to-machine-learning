@@ -65,3 +65,5 @@ In the first half of the assigment, we build an anomaly detection model to detec
 In the second half of the assignment, implement a Recommender Syster to recommend movies based on Ratings using Collaborative Filtering among multiple users. In this half, we can also rate movies according
 to our taste and then get our own movie recommendations.
 
+## Week 10 and Week 11
+In week 10 and 11 of the course, we do not have any practical assignments because we then focus on the problems faced in the real world and how to tackle them using certain methods.
