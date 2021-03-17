@@ -1,4 +1,4 @@
-# Courera's Course of Machine Learning by Andrew Ng
+# Coursera's Course of Machine Learning by Andrew Ng
 This repository contains all the programming assignments completed while learning the course. Below is a brief description of assignments done in each week of the course.
 
 ## Week 1
